@@ -1,0 +1,4 @@
+--recursive
+--compilers ts:ts-node/register
+--timeout 30000
+test/**/*.test.ts
